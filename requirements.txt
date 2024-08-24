@@ -1,0 +1,6 @@
+langchain==0.2.8
+langchain-community==0.2.7
+langchain-core==0.2.20
+langchain-text-splitters==0.2.2
+mysql-connector-python==9.0.0
+SQLAlchemy==2.0.31

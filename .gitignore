@@ -13,6 +13,7 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+ragsql/
 .eggs/
 lib/
 lib64/
